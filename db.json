@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": "ccd1ee41-f6bb-4c05-827a-2defcdb45c6d",
+      "title": "Task 01",
+      "description": "Descrição da Task 01",
+      "completed_at": "2023-02-01T00:53:09.144Z",
+      "created_at": "2023-02-01T00:51:03.898Z",
+      "updated_at": "2023-02-01T00:53:09.144Z"
+    },
+    {
+      "id": "be9e0426-5874-4923-8d27-b79f41144fa1",
+      "title": "Tarefa 02",
+      "description": "Segunda tarefa",
+      "completed_at": null,
+      "created_at": "2023-02-01T00:51:04.903Z",
+      "updated_at": "2023-02-01T00:52:39.268Z"
+    },
+    {
+      "id": "22003d81-a779-40c4-b84a-b2eefbbccfd7",
+      "title": "Task 03",
+      "description": "Descrição da Task 03",
+      "completed_at": null,
+      "created_at": "2023-02-01T00:51:05.911Z",
+      "updated_at": "2023-02-01T00:51:05.911Z"
+    },
+    {
+      "id": "8a06e6ff-360c-4fb6-b74f-34be3853101a",
+      "title": "Task 05",
+      "description": "Descrição da Task 05",
+      "completed_at": null,
+      "created_at": "2023-02-01T00:51:07.924Z",
+      "updated_at": "2023-02-01T00:51:07.924Z"
+    },
+    {
+      "id": "3f0fc7a4-8e3d-4b5e-bba8-7dc90c21162c",
+      "title": "Tarefa 01",
+      "description": "Primeira tarefa.",
+      "completed_at": null,
+      "created_at": "2023-02-01T00:51:39.239Z",
+      "updated_at": "2023-02-01T00:51:39.239Z"
+    }
+  ]
+}

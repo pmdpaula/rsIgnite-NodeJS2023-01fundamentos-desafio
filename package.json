@@ -1,0 +1,14 @@
+{
+  "name": "01-fundamentos-nodejs-desafio",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "license": "MIT",
+  "author": "Pedro Machado de Paula",
+  "dependencies": {
+    "csv-parse": "^5.3.4"
+  }
+}
